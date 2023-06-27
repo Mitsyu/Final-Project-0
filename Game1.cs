@@ -5,7 +5,7 @@ using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Media;
 using System;
 
-namespace test_2
+namespace Final_Project_0
 {
     public class Game1 : Game
     {
