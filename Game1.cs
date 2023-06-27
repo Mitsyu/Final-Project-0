@@ -40,7 +40,7 @@ namespace Final_Project_0
         private TimeSpan countdownTimer;
         private TimeSpan taskTimer;
         private TimeSpan scoreMenuTimer;
-        private const int TaskDurationSeconds = 30;
+        private const int TaskDurationSeconds = 60;
 
         private SpriteFont font;
         private SpriteFont font2;
