@@ -9,7 +9,7 @@ namespace Final_Project_0
 {
     public class Game1 : Game
     {
-        private GraphicsDeviceManager graphics;
+        private GraphicsDeviceManager graphics;  
         private SpriteBatch spriteBatch;
 
         private Texture2D targetTexture;
